@@ -31,6 +31,7 @@ public class TestNG {
 	private void testCase() 
 	{
 		System.out.println("testcases");
+		System.out.println("done");
 	}
-
+	
 }
