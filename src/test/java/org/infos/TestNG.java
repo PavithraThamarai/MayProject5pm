@@ -31,6 +31,12 @@ public class TestNG {
 	private void testCase() 
 	{
 		System.out.println("testcases");
+		System.out.println("done successfully");
 	}
-
+	@Test
+	private void testcase1()
+	{
+		System.out.println("test done");
+	}
+	
 }
